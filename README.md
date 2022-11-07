@@ -1,2 +1,2 @@
 # sysfood
-Sistema para controle de pizzaria, hamburgueria e restaurantes, com integração junto ao ifood. Sistema Web com banco de dados mysql. Sistema desenvolvido para estudo.
+Sistema para controle de pedidos online, com recebimentos dos pedidos, e status de andamento de separação é entrada.
